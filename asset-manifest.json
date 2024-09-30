@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/brandPage/static/css/main.51a17ccd.css",
-    "main.js": "/brandPage/static/js/main.c65e6d28.js",
+    "main.js": "/brandPage/static/js/main.ed93cf0f.js",
     "static/js/453.8309665a.chunk.js": "/brandPage/static/js/453.8309665a.chunk.js",
+    "static/media/shoe_image.png": "/brandPage/static/media/shoe_image.dccc3913a4c46169fc5a.png",
+    "static/media/logo.png": "/brandPage/static/media/logo.0ecd417bbf72e670597f.png",
     "index.html": "/brandPage/index.html",
     "main.51a17ccd.css.map": "/brandPage/static/css/main.51a17ccd.css.map",
-    "main.c65e6d28.js.map": "/brandPage/static/js/main.c65e6d28.js.map",
+    "main.ed93cf0f.js.map": "/brandPage/static/js/main.ed93cf0f.js.map",
     "453.8309665a.chunk.js.map": "/brandPage/static/js/453.8309665a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51a17ccd.css",
-    "static/js/main.c65e6d28.js"
+    "static/js/main.ed93cf0f.js"
   ]
 }
