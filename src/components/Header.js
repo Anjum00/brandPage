@@ -1,10 +1,12 @@
+import logo from '../images/logo.png'
+
 const Header = () => {
     console.log();
     return (
         <div className="container">
             <nav>
                 <div className="logo">
-                    <img src="/images/logo.png" alt="" />
+                    <img src={logo} alt="" />
                 </div>
                 <ul>
                     <li href="#">Menu</li>
